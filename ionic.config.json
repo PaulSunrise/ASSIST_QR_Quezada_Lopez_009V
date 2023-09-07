@@ -1,0 +1,7 @@
+{
+  "name": "AssistQR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
